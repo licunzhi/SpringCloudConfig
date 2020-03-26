@@ -1,1 +1,4 @@
 name: dev
+spring:
+  application:
+    name: cli

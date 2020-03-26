@@ -1,1 +1,4 @@
 name: TestPro
+spring:
+  application:
+    name: cloud-user-service-config-cli
